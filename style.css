@@ -1,4 +1,6 @@
 h1{text-align: center;}
 body{background-color:#8bad8d ;}
 nav a { display: block; padding: 10px; background: #333; color: white; text-decoration: none; margin-bottom: 2px; }
-  
+  nav a:hover { background: #575757; }
+ol{font-size: 32px;}
+
