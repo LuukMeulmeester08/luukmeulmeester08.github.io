@@ -52,6 +52,11 @@ table {
 table {
   background-color: beige;
 }
+.upcoming{
+background-color: yellow;
+}
+.failed{background-color: red;}
+.passed{background-color: green;}
 
 summary {
   color: #0055ff;
@@ -118,4 +123,9 @@ footer {
 .indexdiv 
     {
     text-align: right;
+    }
+    a{font-size: large;}
+  .zelfGeschrevenBlog{ font-size: larger;
+  display: block;background-color: rgb(9, 52, 36);
+  align-items: center;text-align: center;
   }
