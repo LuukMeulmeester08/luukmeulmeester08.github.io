@@ -126,6 +126,20 @@ footer {
     }
     a{font-size: large;}
   .zelfGeschrevenBlog{ font-size: larger;
-  display: block;background-color: rgb(9, 52, 36);
+  display: block;background-color: rgb(204, 218, 203);
   align-items: center;text-align: center;
   }
+  .blogArtikel{ background-color: #f9f9f9; 
+  border-left: 4px solid #3948db;
+  padding: 20px;
+  margin: 10px;
+  }
+  
+  .homeMotivatie{
+  max-width: 800px;
+  padding: 20px;
+  background: #4f8d92;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);}
+  .blogClass{font-size: larger;}
+  .chessfoto{align-items: center;}
